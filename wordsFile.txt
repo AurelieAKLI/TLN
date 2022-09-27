@@ -1,0 +1,15 @@
+lion;86756
+dangereux;48510
+fille;95245
+gentille;153173
+tigre;137333
+pigeon;74657
+pondre;112239
+couper;128828
+pain;61283
+soupe;117152
+restaurant;79954
+Toulouse;68804
+France;87987
+avion;97756
+voler;73827
